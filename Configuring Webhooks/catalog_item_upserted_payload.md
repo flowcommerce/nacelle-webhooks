@@ -6,7 +6,7 @@ The catalog_upsert_item webhook will POST the following payload to the set URL:
 {
  "event_id": "evt-b300e2b3f4b8431885f0be5bcb7e9792",
  "timestamp": "2020-11-11T17:55:13.054Z",
- "organization": "nacelle-sandbox",
+ "organization": ":organization_id",
  "item": {
    "id": "cit-69f231b48dbf4fc9b2563a3e44c45fbf",
    "number": "13211236302948",

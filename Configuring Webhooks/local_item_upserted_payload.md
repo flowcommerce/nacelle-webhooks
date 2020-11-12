@@ -4,7 +4,7 @@
 {
  "event_id": "evt-b43595523116439ba91e2dd6275fa636",
  "timestamp": "2020-11-11T18:21:51.470Z",
- "organization": "nacelle-sandbox",
+ "organization": ":organization_id",
  "local_item": {
    "id": "lit-5566310bc307334697cb54362b8e46cc",
    "experience": {
